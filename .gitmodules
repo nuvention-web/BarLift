@@ -4,3 +4,6 @@
 [submodule "BarLift-iOS-v2"]
 	path = BarLift-iOS-v2
 	url = https://github.com/shikharmohan/BarLift-iOS-v2.git
+[submodule "Barlift-Android"]
+	path = Barlift-Android
+	url = https://github.com/TheZallen/Barlift-Android.git
