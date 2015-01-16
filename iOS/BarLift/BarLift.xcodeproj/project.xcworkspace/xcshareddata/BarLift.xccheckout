@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DC6AB616-11D5-49B7-BE6F-C8B2EBEE8B2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BarLift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB791A50833156EF1710CB31C57E497C23C02471</key>
+		<string>github.com:nuvention-web/Barlift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/BarLift/BarLift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB791A50833156EF1710CB31C57E497C23C02471</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:nuvention-web/Barlift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB791A50833156EF1710CB31C57E497C23C02471</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB791A50833156EF1710CB31C57E497C23C02471</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BarLift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
