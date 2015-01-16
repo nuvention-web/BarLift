@@ -1,3 +1,6 @@
 [submodule "BarliftWeb"]
 	path = BarliftWeb
 	url = https://github.com/nikhilpi/BarliftWeb.git
+[submodule "BarLift-iOS-v2"]
+	path = BarLift-iOS-v2
+	url = https://github.com/shikharmohan/BarLift-iOS-v2.git
