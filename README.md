@@ -10,7 +10,7 @@ Drink Spontaneously.
 * [Shikhar Mohan] - iOS 
 * [Nikhil Pai] - Web
 * [Zak Allen] - Android
-* [Divir Gupta] - Android
+* [Divir Gupta] - Web
 * [Mats Johansen] - Business/Marketing/Design
 * [Oskar Melking] - Business/Marketing/Design
 
