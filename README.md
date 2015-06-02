@@ -34,6 +34,7 @@ Drink Spontaneously.
 
 ## Customer Development
 `Current status`
+`Problems`
 
 ### Bars
 `Current customers`
@@ -49,17 +50,22 @@ Drink Spontaneously.
 
 ## Product Development
 `Current status`
+`Problems`
+
 ### iOS App
 `High level overview`
 `Next features`
+`Link to submodule setup/deploy readme`
 
 ### Android App
 `High level overview`
 `Next features`
+`Link to submodule setup/deploy readme`
 
 ### Web App
 `High level overview`
 `Next features`
+`Link to submodule setup/deploy readme`
 
 
 
