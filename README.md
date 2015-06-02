@@ -32,6 +32,34 @@ Drink Spontaneously.
 
 [Barlift]: http://www.barliftapp.com
 
+## Customer Development
+`Current status`
+
+### Bars
+`Current customers`
+`Pipeline`
+`Aquisition stratgey`
+`Link to contact list`
+
+### Users
+`Current Users`
+`Marketing campaigns`
+`Aquisition stratgey`
+`User engagement`
+
+## Product Development
+`Current status`
+### iOS App
+`High level overview`
+`Next features`
+
+### Android App
+`High level overview`
+`Next features`
+
+### Web App
+`High level overview`
+`Next features`
 
 
 
