@@ -49,11 +49,23 @@ We have approached 15 bars in Evanston to this date, and we’ve already had 12 
 
 ### Users
 #### Current Users
+* 
+
 #### Marketing campaigns
-* DM Competition (March 2-6) - Launch of version 1. Single page app with ability to support a DM teamm. The team with the most supporters won $1000. Gained 1400 users with 500 people enabling push notifications.
-* NU Bar Week (
+* DM Competition (March 2-6) - Launch of version 1. Single page app with ability to support a DM team. The team with the most supporters won $1000. Gained 1400 users with 500 people enabling push notifications.
+* NU Bar Week (May 18-22) - Launch of version 2. Multiple deals with better social features. Had line up of exclusive bar deals for a full week. Gained Hit 2150 users, signed up 18 bars with 6 paying a subscription cost.
+* DePaul bar week (May 27-June2) - Signed up 28 bars for a trial and got 200 DePaul users.
+
 #### Aquisition stratgey
+* Campus Bar week
+* Campus Reps
+* Student group comeptitions
+
 #### User engagement
+* 600 weekly active users
+* 700 push enabled
+* 80% have sent a nudge
+* 39 avg interested on a deal of the day
 
 ## Product Development
 The product is at completely functional state. Our apps are live in the Apple App Store, Google Platy Store. The dashboard is live at admin.barliftapp.com and can be used to enter deals into the system. Currently we have 2.14k installations of the apps and 250 weekly active users. 
