@@ -74,7 +74,11 @@ itunesconnect.apple.com/WebObjects/iTunesConnect.woa
 
 ### Web App
 `High level overview`
+
+The dashboard is a Angular.js app served by a node stack. Data is stored using a Parse.com app and reached over the REST API. Theming was done using INSPINIA, a purchased CSS package. The app was hosted on heroku.
+
 `Next features`
+
 More deal creation features
 - Feeding deals automatically from other sources like SmallTabs
 - Recurring deals
