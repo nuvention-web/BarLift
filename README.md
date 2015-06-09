@@ -74,6 +74,7 @@ itunesconnect.apple.com/WebObjects/iTunesConnect.woa
 
 ### Web App
 `High level overview`
+The purpose of this web app is to create deals, buy deal of the day slots and view consumer and competetive analytics. BarLift uses your location to send you relevant, high quality deals when you're out at night.
 
 The dashboard is a Angular.js app served by a node stack. Data is stored using a Parse.com app and reached over the REST API. Theming was done using INSPINIA, a purchased CSS package. The app was hosted on heroku.
 
