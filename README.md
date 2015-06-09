@@ -35,19 +35,23 @@ Drink Spontaneously.
 ## Customer Development
 We have approached 15 bars in Evanston to this date, and we’ve already had 12 bars on trial. After two months, 8 of those bars agreed to pay to use our service. Deal pushes have been effective, generating an average of $315 incremental bar revenue per push, which is reported to us by the bars. For DePaul, we had 30 target bars, and 25 agreed to test our product. We can convert at least 50% of them to subscription sales within one-two months of launching there.
 
-`Problems`
+### Problems
+* A lot of bars are not tech savvy
+* Bar's are not good at marketing
+* Bars want a flat fee
+* User's don't have a lot of incentive to click I'm interested
 
 ### Bars
-`Current customers`
-`Pipeline`
-`Aquisition stratgey`
-`Link to contact list`
+#### Current customers
+#### Pipeline
+#### Aquisition stratgey
+#### Link to contact list
 
 ### Users
-`Current Users`
-`Marketing campaigns`
-`Aquisition stratgey`
-`User engagement`
+#### Current Users
+#### Marketing campaigns
+#### Aquisition stratgey
+#### User engagement
 
 ## Product Development
 The product is at completely functional state. Our apps are live in the Apple App Store, Google Platy Store. The dashboard is live at admin.barliftapp.com and can be used to enter deals into the system. Currently we have 2.14k installations of the apps and 250 weekly active users. 
