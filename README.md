@@ -111,6 +111,7 @@ https://play.google.com/store/apps/details?id=com.barliftapp.barlift&hl=en
  - Bug fixes with dates
  - iBeacon SDK implementation -> loyalty points?
  - News feed
+ - Users can subscribe to multiple communities
 
 ##### Links
 * [App repo](https://github.com/TheZallen/Barlift-Android)
@@ -131,6 +132,7 @@ https://itunes.apple.com/us/app/barlift/id965946420
  - Bug fixes with dates
  - iBeacon SDK implementation -> loyalty points?
  - News feed
+ - Users can subscribe to multiple communities
 
 ##### Links
 * [App repo](https://github.com/shikharmohan/BarLift-iOS-v2)
