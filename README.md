@@ -33,7 +33,6 @@ Drink Spontaneously.
 [Barlift]: http://www.barliftapp.com
 
 ## Customer Development
-`Current status`
 We have approached 15 bars in Evanston to this date, and we’ve already had 12 bars on trial. After two months, 8 of those bars agreed to pay to use our service. Deal pushes have been effective, generating an average of $315 incremental bar revenue per push, which is reported to us by the bars. For DePaul, we had 30 target bars, and 25 agreed to test our product. We can convert at least 50% of them to subscription sales within one-two months of launching there.
 
 `Problems`
@@ -105,6 +104,26 @@ BarLift is an app that sends you exclusive drink deals and freebies from bars & 
 Deals are sent in real time, giving you spontaneous options throughout the night. In-app social features enable you to stay connected with the people around you, allowing you to see who’s interested in going out and where the crowds are headed. Nudge your friends to get them to head out with you!
 
 You can find it on the app store here: 
+https://play.google.com/store/apps/details?id=com.barliftapp.barlift&hl=en
+
+##### Next features
+ - GeoTrack (implementing Geotrigger SDK) 
+ - Bug fixes with dates
+ - iBeacon SDK implementation -> loyalty points?
+ - News feed
+
+##### Links
+* [App repo](https://github.com/TheZallen/Barlift-Android)
+* [App](https://play.google.com/store/apps/details?id=com.barliftapp.barlift&hl=en)
+
+### Android App
+##### High level overview
+
+BarLift is an app that sends you exclusive drink deals and freebies from bars & restaurants located around you!
+
+Deals are sent in real time, giving you spontaneous options throughout the night. In-app social features enable you to stay connected with the people around you, allowing you to see who’s interested in going out and where the crowds are headed. Nudge your friends to get them to head out with you!
+
+You can find it on the app store here: 
 https://itunes.apple.com/us/app/barlift/id965946420
 
 ##### Next features
@@ -116,11 +135,6 @@ https://itunes.apple.com/us/app/barlift/id965946420
 ##### Links
 * [App repo](https://github.com/shikharmohan/BarLift-iOS-v2)
 * [App](https://itunes.apple.com/us/app/barlift/id965946420)
-
-### Android App
-`High level overview`
-`Next features`
-`Link to submodule setup/deploy readme`
 
 ### Web App/Landing Page
 ##### High level overview
