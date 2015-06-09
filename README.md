@@ -1,4 +1,4 @@
-[Barlift]
+[BarLift](http://barliftapp.com/)
 ======
 
 Drink Spontaneously.
