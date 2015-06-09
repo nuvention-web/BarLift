@@ -43,9 +43,39 @@ We have approached 15 bars in Evanston to this date, and we’ve already had 12 
 
 ### Bars
 #### Current customers
+* La Macchina
+* Celtic Knot 
+* Prairie Moon 
+* Las Palmas 
+* WOB 
+* Nevin’s
+
 #### Pipeline
-#### Aquisition stratgey
-#### Link to contact list
+* World of Beer
+* 27 Live 
+* Bar Louie 
+* Cheesies 
+* JT’s Bar and Grill
+
+#### Trial
+* Mad River 
+* Smylies 
+* Bangers and Lace 
+* Bat 17 
+* LA Social 
+* Allende 
+* Clarke’s Diner 
+* Deuces and the Diamond Club 
+* Duffy’s Tavern 
+* Durkin’s 
+* Halligan Bar 
+* Hidden Shamrock 
+* Hook and Ladder 
+* Lion Head Pub 
+* MaxBar 
+* Johnny’s Beef & Gyros 
+* Red Ivy 
+* The Apartment
 
 ### Users
 #### Current Users
