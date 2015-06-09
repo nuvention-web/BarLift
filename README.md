@@ -131,7 +131,6 @@ BarLift is an app that sends you exclusive drink deals and freebies from bars & 
 Deals are sent in real time, giving you spontaneous options throughout the night. In-app social features enable you to stay connected with the people around you, allowing you to see who’s interested in going out and where the crowds are headed. Nudge your friends to get them to head out with you!
 
 You can find it on the app store here: 
-https://itunes.apple.com/us/app/barlift/id965946420
 
 ##### Next features
  - GeoTrack (implementing Geotrigger SDK) 
@@ -141,8 +140,8 @@ https://itunes.apple.com/us/app/barlift/id965946420
  - Users can subscribe to multiple communities
 
 ##### Links
-* [App repo](https://github.com/shikharmohan/BarLift-iOS-v2)
-* [App](https://itunes.apple.com/us/app/barlift/id965946420)
+* [App repo](https://github.com/TheZallen/Barlift-Android)
+* [App](https://play.google.com/store/apps/details?id=com.barliftapp.barlift&hl=en)
 
 ### Web App/Landing Page
 ##### High level overview
