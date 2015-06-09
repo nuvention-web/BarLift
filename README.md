@@ -50,6 +50,8 @@ We have approached 15 bars in Evanston to this date, and we’ve already had 12 
 ### Users
 #### Current Users
 #### Marketing campaigns
+* DM Competition (March 2-6) - Launch of version 1. Single page app with ability to support a DM teamm. The team with the most supporters won $1000. Gained 1400 users with 500 people enabling push notifications.
+* NU Bar Week (
 #### Aquisition stratgey
 #### User engagement
 
