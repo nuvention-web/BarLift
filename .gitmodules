@@ -7,3 +7,9 @@
 [submodule "Barlift-Android"]
 	path = Barlift-Android
 	url = https://github.com/TheZallen/Barlift-Android.git
+[submodule "BLTCloudCode"]
+	path = BLTCloudCode
+	url = https://github.com/shikharmohan/BLTCloudCode.git
+[submodule "Barlift-Web"]
+	path = Barlift-Web
+	url = https://github.com/TheZallen/Barlift-Web
