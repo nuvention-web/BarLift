@@ -75,6 +75,20 @@ itunesconnect.apple.com/WebObjects/iTunesConnect.woa
 ### Web App
 `High level overview`
 `Next features`
+# More deal creation features
+- Feeding deals automatically from other sources like SmallTabs
+- Recurring deals
+
+# Better Analytics
+ - A network graph of BarLift users to see get a sense of closely connected the BarLift community is
+ - Visualization to geotag Twitter tweets related to bars
+ - Detailed location tracking data
+
+# New services
+ - Deal reminder text message service for bars
+ - Bar feedback notifications
+ - Weekly emails about deal performace of bars in a community
+  
 `Link to submodule setup/deploy readme`
 
 
