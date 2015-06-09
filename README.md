@@ -34,6 +34,8 @@ Drink Spontaneously.
 
 ## Customer Development
 `Current status`
+We have approached 15 bars in Evanston to this date, and we’ve already had 12 bars on trial. After two months, 8 of those bars agreed to pay to use our service. Deal pushes have been effective, generating an average of $315 incremental bar revenue per push, which is reported to us by the bars. For DePaul, we had 30 target bars, and 25 agreed to test our product. We can convert at least 50% of them to subscription sales within one-two months of launching there.
+
 `Problems`
 
 ### Bars
