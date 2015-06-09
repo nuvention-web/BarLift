@@ -62,8 +62,10 @@ itunesconnect.apple.com/WebObjects/iTunesConnect.woa
  - Bug fixes with dates
  - iBeacon SDK implementation -> loyalty points?
  - News feed
+
 `Link to submodule setup/deploy readme`
-https://github.com/shikharmohan/BarLift-iOS-v2
+- To deploy/develop the app, download Xcode and run
+- https://github.com/shikharmohan/BarLift-iOS-v2
 
 ### Android App
 `High level overview`
