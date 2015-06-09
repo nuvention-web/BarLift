@@ -49,7 +49,29 @@ Drink Spontaneously.
 `User engagement`
 
 ## Product Development
-`Current status`
+The product is at completely functional state. Our apps are live in the Apple App Store, Google Platy Store. The dashboard is live at admin.barliftapp.com and can be used to enter deals into the system. Currently we have 2.14k installations of the apps and 250 weekly active users. 
+
+##### Features:
+__Mobile__
+* View deals in advance
+* Multiple locations
+* Custom User Profiles
+* Nudge friends
+* Save to calendar
+* Interested
+* Call uber
+* iOS and Android
+* Facebook login
+* Google maps integration
+
+__Web__
+* 
+* Schedule of up coming student events
+* Weather information
+* Competitive analytics
+* Past deal perfomar
+
+
 `Problems`
 
 ### iOS App
@@ -68,9 +90,9 @@ https://itunes.apple.com/us/app/barlift/id965946420
  - iBeacon SDK implementation -> loyalty points?
  - News feed
 
-##### Link to submodule setup/deploy readme
-- To deploy/develop the app, download Xcode and run
-- https://github.com/shikharmohan/BarLift-iOS-v2
+##### Links
+* [App repo](https://github.com/shikharmohan/BarLift-iOS-v2)
+* [App](https://itunes.apple.com/us/app/barlift/id965946420)
 
 ### Android App
 `High level overview`
