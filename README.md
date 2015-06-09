@@ -91,8 +91,11 @@ __Web__
  * Add multiple locations
  * View invoice
 
-
-`Problems`
+### Problems:
+* Increase user engagement
+* Simplify deal creation
+* Encourage bars to enter deals themselves
+* Improve user tracking and deal redemption
 
 ### iOS App
 ##### High level overview
