@@ -77,7 +77,7 @@ https://itunes.apple.com/us/app/barlift/id965946420
 `Next features`
 `Link to submodule setup/deploy readme`
 
-### Web App
+### Web App/Landing Page
 ##### High level overview
 
 The purpose of this web app is to create deals, buy deal of the day slots and view consumer and competetive analytics. BarLift uses your location to send you relevant, high quality deals when you're out at night.
@@ -104,7 +104,9 @@ New services
 
 ##### Links
 * [Dashboard repo](https://github.com/nikhilpi/BarliftWeb)
+* [Dashboard](http://admin.barliftapp.com/)
 * [Landing Page repo](https://github.com/TheZallen/Barlift-Web)
+* [Landing Page](http://www.barliftapp.com/)
 
 
 
