@@ -54,8 +54,12 @@ Drink Spontaneously.
 
 ### iOS App
 `High level overview`
-This repo contains the BarLift iOS app. You can find it on the app store here: 
-itunesconnect.apple.com/WebObjects/iTunesConnect.woa
+BarLift is an app that sends you exclusive drink deals and freebies from bars & restaurants located around you!
+
+Deals are sent in real time, giving you spontaneous options throughout the night. In-app social features enable you to stay connected with the people around you, allowing you to see who’s interested in going out and where the crowds are headed. Nudge your friends to get them to head out with you!
+
+You can find it on the app store here: 
+https://itunes.apple.com/us/app/barlift/id965946420
 
 `Next features`
  - GeoTrack (implementing Geotrigger SDK) 
