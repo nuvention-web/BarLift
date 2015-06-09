@@ -53,7 +53,7 @@ We have approached 15 bars in Evanston to this date, and we’ve already had 12 
 ## Product Development
 The product is at completely functional state. Our apps are live in the Apple App Store, Google Platy Store. The dashboard is live at admin.barliftapp.com and can be used to enter deals into the system. Currently we have 2.14k installations of the apps and 250 weekly active users. 
 
-##### Features:
+### Features:
 __Mobile__
 * View deals in advance
 * Multiple locations
@@ -67,11 +67,29 @@ __Mobile__
 * Google maps integration
 
 __Web__
-* 
-* Schedule of up coming student events
-* Weather information
-* Competitive analytics
-* Past deal perfomar
+* Dashbaord
+ * Schedule of up coming student events
+ * Weather information
+ * Competitive analytics
+ * Past deal perfomarce
+* Deal list
+ * Calendar view or list view
+ * Repeat deals on specific dats
+ * Filter by community
+* Deal Builder
+ * Sub deals
+ * Custom images
+* Deal Analytics
+ * Demographic breakdown
+ * User engagement
+ * Feedback forms
+* Deal promoter
+ * Buy deal of the days
+ * See estimated reach
+ * Dynamic pricing based on day of week and community
+* Profile
+ * Add multiple locations
+ * View invoice
 
 
 `Problems`
